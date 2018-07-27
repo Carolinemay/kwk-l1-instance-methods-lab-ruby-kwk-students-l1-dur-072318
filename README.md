@@ -3,14 +3,14 @@
 ## Objectives
 
 1. Define a class.
-2. Build instance methods for the class.
-
+2. 
+2. Build instance methods for the class
 ## Overview
 
 You're going to be adding 2 instance methods to a `Dog` and `Person` class.
 
 ## Instructions
-
+class 
 Open this lab with `learn open` and run your tests with `learn`.
 
 #### 1. Define `Dog` in `lib/dog.rb`
